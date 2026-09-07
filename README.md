@@ -90,3 +90,6 @@ However, thread safety isn't free:
 * **Context switching overhead:** Constantly locking, unlocking, and waking up waiting threads burns massive CPU time.
 
 It's the other side of the Task 6 trade-off: our data is completely accurate, but serializing access slows execution down drastically.
+
+This is the week 8 assignment repository.Link to repo:
+https://github.com/AndyTefalet/ Week_5_Threads_Exercise
